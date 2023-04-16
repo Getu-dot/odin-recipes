@@ -1,0 +1,54 @@
+html {
+    background-color: papayawhip;
+    color: rgb(79, 77, 77);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 18px;
+
+}
+
+h1,
+.top-sub-head {
+    color: rgba(212, 21, 21, 0.826);
+}
+
+h1 {
+    font-size: 36px;
+    font-weight: bold;
+}
+
+.link {
+    color: #0645AD;
+    font-size: large;
+}
+
+.return-top {
+    color: crimson;
+    font-size: 16px;
+    font-style: italic;
+}
+
+.sub-head {
+    color: lightcoral;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.top-sub-head {
+    font-size: 24px;
+    font-weight: bold;
+}
+
+dt.steps {
+    font-weight: bold;
+    color: blue;
+}
+
+.emphasized,
+.author {
+
+    color: lightcoral;
+}
+
+.author {
+    font-weight: bold;
+}
